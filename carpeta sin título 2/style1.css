@@ -1,0 +1,48 @@
+body{
+    
+    font-family: 'Courier New';
+    background-color:rosybrown;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-family: Georgia;
+}
+h4{
+    color: black;
+   
+    
+}
+h3{
+    color:black;
+    text-align: center;
+}
+#bloquehabilidades{
+    background-color: hotpink;
+    text-align: center;
+}
+
+#bloquehobbies{
+    background-color: hotpink;
+    text-align: center;
+}
+
+#bloqueeducacion{
+    background-color: hotpink;
+    text-align: center;
+}
+.carousel-inner img {
+    width: 100%;
+    max-height: 600px;
+}
+
+.carousel-inner{
+ height: 600px;
+}
+#bloqueinfo{
+    background-color: pink;
+    
+}
+#bloquedescr{
+background-color: darksalmon;
+}
